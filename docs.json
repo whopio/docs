@@ -17,6 +17,7 @@
             "group": "Getting started",
             "pages": [
               "index",
+              "onboarding",
               "quickstart",
               "development"
             ]
