@@ -22,6 +22,12 @@
             ]
           },
           {
+            "group": "Reference",
+            "pages": [
+              "dri"
+            ]
+          },
+          {
             "group": "Customization",
             "pages": [
               "essentials/settings",
