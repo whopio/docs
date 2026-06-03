@@ -11,6 +11,17 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "Trust and Safety",
+        "groups": [
+          {
+            "group": "Trust & Safety Overview",
+            "pages": [
+              "trust-and-safety/trust-safety-overview/sanctioned-countries"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "Guides",
         "groups": [
           {
